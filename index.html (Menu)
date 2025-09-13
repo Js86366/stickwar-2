@@ -4,20 +4,15 @@
   <meta charset="UTF-8">
   <title>Stick War Collection</title>
   <style>
-    body { font-family: Arial; text-align: center; background: #111; color: #fff; }
-    h1 { margin-top: 50px; }
-    ul { list-style: none; padding: 0; }
-    li { margin: 20px 0; }
-    a { text-decoration: none; color: #0f0; font-size: 24px; }
-    a:hover { color: #ff0; }
+    body {background:#111; color:#fff; font-family:Arial, sans-serif; text-align:center; padding:50px;}
+    h1 {margin-bottom:30px;}
+    a {display:block; margin:15px; font-size:20px; color:#0f0; text-decoration:none;}
+    a:hover {color:#ff0;}
   </style>
 </head>
 <body>
-  <h1>Stick War Collection</h1>
-  <ul>
-    <li><a href="classic.html">Stick War Classic</a></li>
-    <li><a href="mod.html">Stick War 2.5 UC</a></li>
-    <li><a href="legacy.html">Stick War Legacy</a></li>
-  </ul>
+  <h1>🎮 Stick War Collection</h1>
+  <a href="stickwar1.html">Stick War 1</a>
+  <a href="stickwar2.html">Stick War 2: Order Empire</a>
 </body>
 </html>
